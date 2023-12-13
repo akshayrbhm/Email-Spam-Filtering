@@ -1,0 +1,15 @@
+# GROUP NUMBER : 27
+# GROUP MEMBERS:
+#	Akshay Ramesh Bhivagade	(22CL60R16)
+#	Anubhav Dhar			(20CS30004)
+#	Rahul Arvind Mool		(22CS60R72)
+#
+# EMAIL SPAM FILTER USING NAIVE BAYES CLASSIFIER LEARNING MODEL (SFNB)
+#
+
+
+To run the code use the command
+python3 ml_part1.py
+python3 mlpart2and3.py
+you can install required library using pip if not already done.
+For file mlpart2and3.py it make take from 30 minutes to 1 hour to run so be patient or you can also run the code by reducing the data.
